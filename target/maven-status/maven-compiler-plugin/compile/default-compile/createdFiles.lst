@@ -1,0 +1,5 @@
+org\example\models\User.class
+org\example\repositories\UserRepository.class
+org\example\services\UserServiceImpl.class
+org\example\controllers\UserController.class
+org\example\services\UserService.class
